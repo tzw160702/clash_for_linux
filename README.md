@@ -9,7 +9,7 @@ wget https://github.com/Dreamacro/clash/releases/download/v1.11.12/clash-linux-a
 wget -O proxychains-ng-4.16.tar.gz https://codeload.github.com/rofl0r/proxychains-ng/tar.gz/refs/tags/v4.16
 ```
 
-**这两个压缩包需放在`pen`目录下**
+**这两个压缩包需放在`/clash_for_linux/dep`目录下**
 
 ## 使用方法
 
